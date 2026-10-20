@@ -1,0 +1,13 @@
+{
+  "name": "com.kurechii.package",
+  "displayName": "Farah Kurechii Package",
+  "description": "This is used to show the placeholder for the Kurechii package.",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "dependencies": {
+  },
+    "author": {
+    "name": "Farah Kurechii",
+    "url": "https://kurechii.com/"
+  }
+}
